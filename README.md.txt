@@ -35,4 +35,4 @@ Your band name could be: Delhi Bruno
 
 ## 📌 Author
 
-Adonish Chandra Pal
+Adonishchandrapal
